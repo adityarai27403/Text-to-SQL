@@ -19,7 +19,7 @@ Text-to-SQL is a GenAI-based tool that translates natural language queries into 
 - SQLite database driver
 
 ### Steps
-![img.png](images/steps.jpeg)
+![img.png](images/steps.png)
 
 ## Usage
 1. Run the Streamlit app:
@@ -30,7 +30,7 @@ Text-to-SQL is a GenAI-based tool that translates natural language queries into 
 3. The system generates and executes the SQL query, displaying the results.
 
 ## Example
-![img.png](images/example.jpeg)
+![img.png](images/example.png)
 
 ## Roadmap
 - Enhance AI model fine-tuning for better SQL translation
